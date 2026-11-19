@@ -12,6 +12,3 @@ contract CoreToken is ERC20 {
                                 _mint(msg.sender, INITIAL_SUPPLY);
                     }
 }
-
-                    }
-}
